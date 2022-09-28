@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="675df1e8-1703-46ac-b4d7-49ec235324c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/luminaryHospital.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hospital/luminary/enums/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hospital/luminary/enums/HealthProfessionalType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hospital/luminary/exceptions/HospitalException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hospital/luminary/models/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hospital/luminary/models/HealthProfessional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hospital/luminary/models/Nurse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/hospital/luminary/DoctorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/hospital/luminary/models/NurseTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="675df1e8-1703-46ac-b4d7-49ec235324c5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,20 +28,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "/home/ucskyship/IdeaProjects/autowire-example",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -99,6 +85,7 @@
       <workItem from="1662558361586" duration="1018000" />
       <workItem from="1662559977385" duration="4648000" />
       <workItem from="1662571113989" duration="16000" />
+      <workItem from="1664395052425" duration="471000" />
     </task>
     <servers />
   </component>
