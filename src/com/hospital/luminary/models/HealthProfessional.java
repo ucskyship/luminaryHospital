@@ -1,10 +1,13 @@
 package com.hospital.luminary.models;
 
+import com.hospital.luminary.enums.HealthProfessionalType;
+
 public abstract class HealthProfessional {
     private int professionalId;
     private String firstName;
     private String lastName;
     private HealthProfessionalType healthProfessionalType;
+    public abstract HealthProfessionalType getHealthProfessionalType();
 
     public HealthProfessional(String name) {
         this.firstName = name;
@@ -38,6 +41,4 @@ public abstract class HealthProfessional {
     public void setLastName(String lastName) {
         this.lastName = lastName;
     }
-
-    public abstract HealthProfessionalType getHealthProfessionalType();
 }

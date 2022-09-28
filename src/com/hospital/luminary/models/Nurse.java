@@ -1,5 +1,7 @@
 package com.hospital.luminary.models;
 
+import com.hospital.luminary.enums.HealthProfessionalType;
+
 public class Nurse extends HealthProfessional{
 
     public Nurse(String name) {
